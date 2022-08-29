@@ -1,0 +1,6 @@
+module Pods_crudreact_crudreactTests {
+  umbrella header "Pods-crudreact-crudreactTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

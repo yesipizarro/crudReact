@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "asd",
+      "telefono": "23",
+      "correo": "a@a.com",
+      "empresa": "AS",
+      "id": 4
+    },
+    {
+      "nombre": "yesica",
+      "telefono": "123",
+      "correo": "c@d.com",
+      "empresa": "asd",
+      "id": 5
+    },
+    {
+      "nombre": "yesica  Pizarro",
+      "telefono": "123",
+      "correo": "c@d.com",
+      "empresa": "asd",
+      "id": 6
+    }
+  ]
+}
